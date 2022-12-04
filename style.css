@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Candara;
+    background-color: #ccc;
+}
+.full {
+    margin: 7pc auto;
+    width: 250px;
+    text-align: center;
+    padding: 42px 83px 25px 70px;
+    background-color: #fff;
+}
+.full h1{
+    color: tomato;
+    margin-bottom: 15px;
+    text-decoration: underline;
+    font-weight: 700;
+    font-size: 35px;
+}
+.full form label {
+    font-size: 17px;
+    margin-bottom: 8px;
+    display: block;
+    margin-top: 14px;
+}
+.full form input{
+    font-size: 15px;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 100%;
+
+}
+.full form .submit > input {
+    background-color: tomato;
+    color: #fff;
+    border: none;
+    margin-top: 19px;
+    padding: 14px 18px;
+    width: 114px;
+}
+.alert-style{
+    color: red;
+    margin-top: 10px;
+    font-size: 17px;
+}
+.sucsess-mess {
+	background-color: #2aac2a;
+	color: #fff;
+	display: table;
+	padding: 21px 84px;
+	margin: auto;
+	font-size: 20px;
+	border-radius: 50px;
+	margin-top: 10px;
+}
+
+
